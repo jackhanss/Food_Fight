@@ -1,3 +1,10 @@
 body {
 	background-color: #ffd633;
-font-family: 'Orbitron', sans-serif;}
+	font-family: 'Orbitron', sans-serif; 
+}
+
+img {
+display: block;
+height: 300px;
+width: auto;
+}
