@@ -8,3 +8,19 @@ display: block;
 height: 300px;
 width: auto;
 }
+
+#title {
+background: #0000ff
+}
+
+#link {
+background: #ff1a1a
+}
+
+#orange {
+background: #ff6600
+}
+
+#war {
+background: #00cc00
+}
