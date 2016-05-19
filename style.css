@@ -10,17 +10,23 @@ width: auto;
 }
 
 #title {
-background: #0000ff
+background: #0000ff;
 }
 
 #link {
-background: #ff1a1a
+background: #ff1a1a;
 }
 
 #orange {
-background: #ff6600
+background: #ff6600;
 }
 
 #war {
-background: #00cc00
+background: #00cc00;
+}
+#war img {
+float:left;
+}
+p {
+padding: 15px;
 }
