@@ -11,6 +11,7 @@ width: auto;
 
 #title {
 background: #0000ff;
+padding: 5px;
 }
 
 #link {
@@ -29,4 +30,8 @@ float:left;
 }
 p {
 padding: 15px;
+}
+
+iframe{
+padding-left: 350px;
 }
